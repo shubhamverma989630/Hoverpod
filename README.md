@@ -2,7 +2,7 @@
 ## Hoverpod
 _A vehicle that hovers over land as well as water._
 # Abstract
-The idea of this project is to make a vehicle that hovers over water and land.The team is working on this project for three months and team was successful in making a hoverpod that can lift upto 15 kgs.Moreover it can be controlled by an android app with aid of bluetooth.
+The idea of this project is to make a vehicle that hovers over water and land.The team is working on this project for three months and team was successful in making a hoverpod that can lift upto 75 kgs.Moreover it can be controlled by an android app with aid of bluetooth.
 ![bot1](https://github.com/shubhamverma989630/Hoverpod/blob/master/IMG_20190308_003335_Bokeh.jpg)
 
 
